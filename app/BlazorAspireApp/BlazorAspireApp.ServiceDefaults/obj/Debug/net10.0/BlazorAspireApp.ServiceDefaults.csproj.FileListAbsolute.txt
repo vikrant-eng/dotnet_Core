@@ -1,0 +1,12 @@
+/home/tk/Documents/dotnetcoremvc/app/BlazorAspireApp/BlazorAspireApp.ServiceDefaults/bin/Debug/net10.0/BlazorAspireApp.ServiceDefaults.deps.json
+/home/tk/Documents/dotnetcoremvc/app/BlazorAspireApp/BlazorAspireApp.ServiceDefaults/bin/Debug/net10.0/BlazorAspireApp.ServiceDefaults.dll
+/home/tk/Documents/dotnetcoremvc/app/BlazorAspireApp/BlazorAspireApp.ServiceDefaults/bin/Debug/net10.0/BlazorAspireApp.ServiceDefaults.pdb
+/home/tk/Documents/dotnetcoremvc/app/BlazorAspireApp/BlazorAspireApp.ServiceDefaults/obj/Debug/net10.0/BlazorAspireApp.ServiceDefaults.csproj.AssemblyReference.cache
+/home/tk/Documents/dotnetcoremvc/app/BlazorAspireApp/BlazorAspireApp.ServiceDefaults/obj/Debug/net10.0/BlazorAspireApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/home/tk/Documents/dotnetcoremvc/app/BlazorAspireApp/BlazorAspireApp.ServiceDefaults/obj/Debug/net10.0/BlazorAspireApp.ServiceDefaults.AssemblyInfoInputs.cache
+/home/tk/Documents/dotnetcoremvc/app/BlazorAspireApp/BlazorAspireApp.ServiceDefaults/obj/Debug/net10.0/BlazorAspireApp.ServiceDefaults.AssemblyInfo.cs
+/home/tk/Documents/dotnetcoremvc/app/BlazorAspireApp/BlazorAspireApp.ServiceDefaults/obj/Debug/net10.0/BlazorAspireApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+/home/tk/Documents/dotnetcoremvc/app/BlazorAspireApp/BlazorAspireApp.ServiceDefaults/obj/Debug/net10.0/BlazorAspireApp.ServiceDefaults.dll
+/home/tk/Documents/dotnetcoremvc/app/BlazorAspireApp/BlazorAspireApp.ServiceDefaults/obj/Debug/net10.0/refint/BlazorAspireApp.ServiceDefaults.dll
+/home/tk/Documents/dotnetcoremvc/app/BlazorAspireApp/BlazorAspireApp.ServiceDefaults/obj/Debug/net10.0/BlazorAspireApp.ServiceDefaults.pdb
+/home/tk/Documents/dotnetcoremvc/app/BlazorAspireApp/BlazorAspireApp.ServiceDefaults/obj/Debug/net10.0/ref/BlazorAspireApp.ServiceDefaults.dll
