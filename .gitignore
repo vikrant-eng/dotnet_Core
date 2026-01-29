@@ -1,0 +1,13 @@
+## Database
+logs/
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+*.log 
+app/package-lock.json
+testapi/package-lock.json
+testapi/obj/Debug//package.g.props
+app/obj/Debug//package.g.props
